@@ -1,0 +1,41 @@
+object DataModule1: TDataModule1
+  OldCreateOrder = False
+  Height = 150
+  Width = 215
+  object Conexao: TFDConnection
+    Params.Strings = (
+      'Database=clinica2'
+      'User_Name=root'
+      'DriverID=MySQL')
+    Connected = True
+    LoginPrompt = False
+    Left = 16
+    Top = 16
+  end
+  object tbPaciente: TFDTable
+    Active = True
+    IndexFieldNames = 'id'
+    Connection = Conexao
+    TableName = 'clinica2.paciente'
+    Left = 80
+    Top = 16
+  end
+  object tbAgendamento: TFDTable
+    Active = True
+    IndexFieldNames = 'id'
+    Connection = Conexao
+    TableName = 'clinica2.agendamento'
+    Left = 144
+    Top = 16
+  end
+  object dsPaciente: TDataSource
+    DataSet = tbPaciente
+    Left = 80
+    Top = 80
+  end
+  object dsAgendamento: TDataSource
+    DataSet = tbAgendamento
+    Left = 144
+    Top = 80
+  end
+end

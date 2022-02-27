@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/28 18:01:59.000.264,=C:\Users\marin\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/25 16:22:36.000.251,=C:\Users\marin\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/25 16:35:57.000.660,C:\Users\marin\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\unitPrincipal.pas</Transaction>
+    <Transaction>2022/02/25 16:35:57.000.660,C:\Users\marin\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\unitPrincipal.dfm</Transaction>
+    <Transaction>2022/02/25 16:36:14.000.202,C:\Users\marin\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\Clinica.dproj</Transaction>
+    <Transaction>2022/02/26 20:16:55.552,=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\Unit2.pas</Transaction>
+    <Transaction>2022/02/26 20:22:36.146,C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\unitCadPacientes.dfm=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\Unit2.dfm</Transaction>
+    <Transaction>2022/02/26 20:22:36.146,C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\unitCadPacientes.pas=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\Unit2.pas</Transaction>
+    <Transaction>2022/02/26 20:23:22.690,=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\Unit3.pas</Transaction>
+    <Transaction>2022/02/26 20:23:33.516,C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\unitCadAgendamentos.pas=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\Unit3.pas</Transaction>
+    <Transaction>2022/02/26 20:23:33.516,C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\unitCadAgendamentos.dfm=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\Unit3.dfm</Transaction>
+    <Transaction>2022/02/26 21:35:42.778,=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\Unit1.pas</Transaction>
+    <Transaction>2022/02/26 21:45:44.172,C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\unitDM.pas=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\Unit1.pas</Transaction>
+    <Transaction>2022/02/26 21:45:44.172,C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\unitDM.dfm=C:\Users\marin\OneDrive\Área de Trabalho\AVMB\projetos_delphi\Sistema_Clinica_Medica\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
